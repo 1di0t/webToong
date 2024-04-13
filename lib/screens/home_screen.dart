@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:webtoong/models/webtoon_model.dart';
 import 'package:webtoong/services/api_service.dart';
 import 'package:webtoong/widget/webtoon_widget.dart';
